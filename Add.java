@@ -1,7 +1,7 @@
 public class Add{
     public static void main(String[] args) {
-        int a=14;
-        int b=44;
+        int a=23;
+        int b=56;
         System.out.println(a+b);
     }
 }
